@@ -16,6 +16,8 @@ This is example text. This is a example again.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull request for review.
+
 ### Copyright
 
 2023 Git.Training
