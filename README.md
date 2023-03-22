@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This is example text. This is a example again.
 
 ## How To Contribute
+
+### Copyright
+
+2023 Git.Training
