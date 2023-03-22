@@ -1,3 +1,4 @@
 *.bak
 hipster.txt.bak
 log/
+*.orig
