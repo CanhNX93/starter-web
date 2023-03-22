@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Canh Nguyen canhnx6@gmail.com @canhnx93
 
 # THANKS
 
